@@ -1,7 +1,7 @@
 # CodingCart
 [YouTube Channel](https://www.youtube.com/@codingcart)
 
-## Python
+## HackerRank Python
 
 ### Introduction
 
