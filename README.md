@@ -1,7 +1,7 @@
 # CodingCart
 [YouTube Channel](https://www.youtube.com/@codingcart)
 
-## HackerRank Python
+## Python
 
 ### Introduction
 
@@ -25,3 +25,23 @@
 
 7. **Print Function**  
    [Problem Link](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=false)
+
+### Basic Data Types
+
+1. **List Comprehensions**  
+   [Problem Link](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=false)
+
+2. **Find the Runner-Up Score!**  
+   [Problem Link](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=false)
+
+3. **Nested Lists**  
+   [Problem Link](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=false)
+
+4. **Finding the Percentage**  
+   [Problem Link](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=false)
+
+5. **Lists**  
+   [Problem Link](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=false)
+
+6. **Tuples**  
+   [Problem Link](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=false)
