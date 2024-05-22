@@ -210,3 +210,35 @@
 
 3. **Reduce Function**  
    [Problem Link](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=false)
+
+### Regex and Parsing
+
+1. **Validating Phone Numbers**  
+   [Problem Link](https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=false)
+
+2. **Validating and Parsing Email Addresses**  
+   [Problem Link](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem?isFullScreen=false)
+
+3. **Hex Color Code**  
+   [Problem Link](https://www.hackerrank.com/challenges/hex-color-code/problem?isFullScreen=false)
+
+4. **HTML Parser - Part 1**  
+   [Problem Link](https://www.hackerrank.com/challenges/html-parser-part-1/problem?isFullScreen=false)
+
+5. **HTML Parser - Part 2**  
+   [Problem Link](https://www.hackerrank.com/challenges/html-parser-part-2/problem?isFullScreen=false)
+
+6. **Detect HTML Tags, Attributes and Attribute Values**  
+   [Problem Link](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem?isFullScreen=false)
+
+7. **Validating UID**  
+   [Problem Link](https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=false)
+
+8. **Validating Credit Card Numbers**  
+   [Problem Link](https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=false)
+
+9. **Validating Postal Codes**  
+   [Problem Link](https://www.hackerrank.com/challenges/validating-postalcode/problem?isFullScreen=false)
+
+10. **Matrix Script**  
+   [Problem Link](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=false)
