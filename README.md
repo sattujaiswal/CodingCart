@@ -242,3 +242,58 @@
 
 10. **Matrix Script**  
    [Problem Link](https://www.hackerrank.com/challenges/matrix-script/problem?isFullScreen=false)
+
+### Numpy
+
+1. **Arrays**  
+   [Problem Link](https://www.hackerrank.com/challenges/np-arrays/problem?isFullScreen=false)
+
+2. **Shape and Reshape**  
+   [Problem Link](https://www.hackerrank.com/challenges/np-shape-reshape/problem?isFullScreen=false)
+
+3. **Transpose and Flatten**  
+   [Problem Link](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem?isFullScreen=false)
+
+4. **Concatenate**  
+   [Problem Link](https://www.hackerrank.com/challenges/np-concatenate/problem?isFullScreen=false)
+
+5. **Zeros and Ones**  
+   [Problem Link](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem?isFullScreen=false)
+
+6. **Eye and Identity**  
+   [Problem Link](https://www.hackerrank.com/challenges/np-eye-and-identity/problem?isFullScreen=false)
+
+7. **Array Mathematics**  
+   [Problem Link](https://www.hackerrank.com/challenges/np-array-mathematics/problem?isFullScreen=false)
+
+8. **Floor, Ceil and Rint**  
+   [Problem Link](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem?isFullScreen=false)
+
+9. **Sum and Prod**  
+   [Problem Link](https://www.hackerrank.com/challenges/np-sum-and-prod/problem?isFullScreen=false)
+
+10. **Min and Max**  
+    [Problem Link](https://www.hackerrank.com/challenges/np-min-and-max/problem?isFullScreen=false)
+
+11. **Mean, Var, and Std**  
+    [Problem Link](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem?isFullScreen=false)
+
+12. **Dot and Cross**  
+    [Problem Link](https://www.hackerrank.com/challenges/np-dot-and-cross/problem?isFullScreen=false)
+
+13. **Inner and Outer**  
+    [Problem Link](https://www.hackerrank.com/challenges/np-inner-and-outer/problem?isFullScreen=false)
+
+14. **Polynomials**  
+    [Problem Link](https://www.hackerrank.com/challenges/np-polynomials/problem?isFullScreen=false)
+
+15. **Linear Algebra**  
+    [Problem Link](https://www.hackerrank.com/challenges/np-linear-algebra/problem?isFullScreen=false)
+
+### Debugging
+
+1. **Words Score**  
+   [Problem Link](https://www.hackerrank.com/challenges/words-score/problem?isFullScreen=false)
+
+2. **Default Arguments**  
+   [Problem Link](https://www.hackerrank.com/challenges/default-arguments/problem?isFullScreen=false)
